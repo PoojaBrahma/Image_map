@@ -1,4 +1,3 @@
-# Ex04 Places Around Me
 # Date:28/11/2024
 # AIM
 To develop a website to display details about the places around my house.
@@ -593,5 +592,12 @@ imap5.html
 ![alt text](8.png)
 
 ![alt text](9.png)
+
+![10](https://github.com/user-attachments/assets/7cc6f214-d7af-4b1d-a051-6a2e7f8665b1)
+
+![11](https://github.com/user-attachments/assets/cb5cea81-da86-4883-8c6a-1f58f450ec2a)
+
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
